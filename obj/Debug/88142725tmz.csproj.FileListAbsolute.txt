@@ -1,0 +1,11 @@
+D:\88142725\HelloCShinp\88142725tmz\bin\Debug\88142725tmz.exe.config
+D:\88142725\HelloCShinp\88142725tmz\bin\Debug\88142725tmz.exe
+D:\88142725\HelloCShinp\88142725tmz\bin\Debug\88142725tmz.pdb
+D:\88142725\HelloCShinp\88142725tmz\bin\Debug\Newtonsoft.Json.dll
+D:\88142725\HelloCShinp\88142725tmz\bin\Debug\Newtonsoft.Json.xml
+D:\88142725\HelloCShinp\88142725tmz\obj\Debug\88142725tmz.csprojResolveAssemblyReference.cache
+D:\88142725\HelloCShinp\88142725tmz\obj\Debug\_88142725tmz.Form1.resources
+D:\88142725\HelloCShinp\88142725tmz\obj\Debug\_88142725tmz.Properties.Resources.resources
+D:\88142725\HelloCShinp\88142725tmz\obj\Debug\88142725tmz.csproj.GenerateResource.Cache
+D:\88142725\HelloCShinp\88142725tmz\obj\Debug\88142725tmz.exe
+D:\88142725\HelloCShinp\88142725tmz\obj\Debug\88142725tmz.pdb
